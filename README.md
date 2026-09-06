@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Olá! Eu sou Chebata
 
-<!--
-**Chebata1945/Chebata1945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em formação.
 
-Here are some ideas to get you started:
+Estou aprendendo desenvolvimento web e criando projetos para colocar em prática o que estudo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+
+📂 Meus projetos
+
+🚧 Meus primeiros projetos estão sendo desenvolvidos!
+
+Em breve você poderá encontrar aqui:
+
+* 🌐 Sites e páginas web
+* 🎨 Interfaces
+* 📱 Projetos responsivos
+* ⚡ Projetos com JavaScript
+
+📚 Atualmente aprendendo
+
+* HTML
+* CSS
+* JavaScript
+* Git e GitHub
+* Desenvolvimento Web
+
+🎯 Meu objetivo
+
+Continuar aprendendo programação, desenvolver projetos cada vez melhores e construir meu portfólio como desenvolvedor Front-End.
+
+⭐ Obrigado por visitar meu perfil!
